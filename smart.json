@@ -1,6 +1,6 @@
 {
   "name": "leapjs",
-  "description": "Leapjs for LeapMotion packaged for meteor",
+  "description": "Leapjs  packaged for meteor",
   "homepage": "https://github.com/kevohagan/meteor-leapjs",
   "author": "Kevin O'Hagan",
   "version": "0.2.0",
