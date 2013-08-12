@@ -7,5 +7,5 @@ Npm.depends({
     );
 
 Package.on_use(function(){
-    api.add_files('leap.js','client');
+    api.add_files('leap.min.js','client');
 });
