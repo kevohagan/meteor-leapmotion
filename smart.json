@@ -3,7 +3,7 @@
   "description": "Leapjs  packaged for meteor",
   "homepage": "https://github.com/kevohagan/meteor-leapjs",
   "author": "Kevin O'Hagan",
-  "version": "0.2.0",
+  "version": "0.1",
   "git": "https://github.com/kevohagan/meteor-leapjs.git",
   "packages": {}
 }
