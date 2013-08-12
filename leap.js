@@ -1,1 +1,0 @@
-Leap = Npm.require("leapjs");
