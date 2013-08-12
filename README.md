@@ -1,5 +1,5 @@
 
-# Meteor-leapjs
+# Meteor-leapmotion
 
 Leapjs packaged for meteor.
 
