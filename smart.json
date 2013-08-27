@@ -3,7 +3,7 @@
   "description": "LeapMotion  packaged for meteor",
   "homepage": "https://github.com/kevohagan/meteor-leapmotion",
   "author": "Kevin OHagan",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "git": "https://github.com/kevohagan/meteor-leapmotion.git",
   "packages": {}
 }
