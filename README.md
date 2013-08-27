@@ -47,7 +47,7 @@ Meteor.startup(function(){
  check out the leap cursor library API here : https://github.com/aphex/leap-cursor-library.js/blob/master/src/js/leap-manager.js#L1011
 
 
- ## Styling the cursor
+## Styling the cursor
 
  Basic styling is included by default, but it is very easy to override it just by changing the CSS for .leap-pointable-cursor and .leap-pointable-cursor:after 
  More info in the leap-manager.css file.
