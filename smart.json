@@ -1,9 +1,9 @@
 {
   "name": "leapmotion",
   "description": "LeapMotion  packaged for meteor",
-  "homepage": "https://github.com/kevohagan/meteor-leapjs",
-  "author": "Kevin O'Hagan",
+  "homepage": "https://github.com/kevohagan/meteor-leapmotion",
+  "author": "Kevin OHagan",
   "version": "0.0.4",
-  "git": "https://github.com/kevohagan/meteor-leapjs.git",
+  "git": "https://github.com/kevohagan/meteor-leapmotion.git",
   "packages": {}
 }
